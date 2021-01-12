@@ -1,4 +1,8 @@
 #!/bin/bash
+# Script to generate a glass brain from diffusion MRI data
+# Copyright (C) 2021 Matteo Mancini (ingmatteomancini@gmail.com)
+# Permission to copy and modify is granted under the MIT license
+# Last revised 12/01/2021
 
 # Retrieving the data using DataLad
 datalad install https://github.com/OpenNeuroDatasets/ds001378

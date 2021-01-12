@@ -8,6 +8,7 @@ To run it, you need the following tools:
 * MRtrix3 (3.0-RC3);
 * FSL (6.0);
 * TractSeg (2.2).
+
 The script was tested on Ubuntu 18.04.
 
 Some things to keep in mind:
