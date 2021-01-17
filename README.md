@@ -4,4 +4,5 @@ This is the repository containing all the code presented and explained in the [b
 
 ## BrainViz
 
-* [making a glass brain](brainviz/glass-brain) - [related post](http://neurosnippets.com/posts/glass-brain/#post);
+* [making a glass brain](brainviz/glass-brain) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/glass-brain/#post) [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
+
