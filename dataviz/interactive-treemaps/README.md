@@ -6,7 +6,8 @@ This jupyter notebook generates a treemap from a spreadsheet of data, similar to
 
 To run it, you need `python` (`3.7`) and the following packages:
 * `pandas` (`0.25.3`);
-* `plotly` (`4.8.1`).
+* `plotly` (`4.8.1`);
+* `xlrd` (`1.2.0`).
 
 The script was tested on macOS `10.15.7`.
 
