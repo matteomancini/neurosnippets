@@ -12,4 +12,4 @@ This is the repository containing all the code presented and explained in the [b
 
 ## Workflows
 
-* [FSL-FIX in a box](workflows/fslfix-in-a-box) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/fslfix-in-a-box/#post)
+* [FSL-FIX in a box](workflows/fslfix-in-a-box) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/fslfix-in-a-box/#post) [![dockerhub](https://img.shields.io/badge/dockerhub-ingmatman-blue)](https://hub.docker.com/repository/docker/ingmatman/fslfix/general)
