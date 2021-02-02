@@ -12,7 +12,7 @@ This is the repository containing all the code presented and explained in the [b
 
 ## Tips and Tricks
 
-* [Running MRtrix3 in Colab](tips-and-tricks/mrtrix-in-colab) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/mrtrix3-in-colab/#post) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteomancini/neurosnippets/blob/master/tips-and-tricks/mrtrix-in-colab/mrtrix_in_colab.ipynb)
+* [Running MRtrix3 in Colab](tips-and-tricks/mrtrix3-in-colab) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/mrtrix3-in-colab/#post) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteomancini/neurosnippets/blob/master/tips-and-tricks/mrtrix3-in-colab/mrtrix3_in_colab.ipynb)
 
 ## Workflows
 

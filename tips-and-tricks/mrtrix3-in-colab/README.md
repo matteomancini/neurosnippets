@@ -1,6 +1,6 @@
 # Running MRtrix3 in Colab
 
-[![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/mrtrix3-in-colab/#post) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteomancini/neurosnippets/blob/master/tips-and-tricks/mrtrix-in-colab/mrtrix_in_colab.ipynb)
+[![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/mrtrix3-in-colab/#post) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteomancini/neurosnippets/blob/master/tips-and-tricks/mrtrix3-in-colab/mrtrix3_in_colab.ipynb)
 
 This jupyter notebook shows how to install (just the first time) MRtrix3 on [Google Colab](https://colab.research.google.com/), keeping it on Google Drive, and how to use it for preprocessing purposes. As one may need to rapidly peek at the data or use directly the terminal, it also shows how to access a Colab instance through SSH. More details available in this [post](http://neurosnippets.com/posts/mrtrix3-in-colab/#post).
 
