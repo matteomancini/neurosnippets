@@ -1,5 +1,5 @@
 plotly==4.14.3
-jupyterlab-dash==0.1.0a3
+jupyter-dash==0.4.0
 dash==1.19.0
 dash-core-components==1.15.0
 dash-html-components==1.1.2

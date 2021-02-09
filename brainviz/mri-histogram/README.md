@@ -1,6 +1,6 @@
 # A dashboard to quickly check MRI data
 
-[![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/mri-histogram/#post) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matteomancini/neurosnippets/master?urlpath=lab/tree/brainviz/mri-histogram/mri-histogram.ipynb)
+[![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/mri-histogram/#post) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteomancini/neurosnippets/blob/master/brainviz/mri-histogram/mri-histogram.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matteomancini/neurosnippets/master?filepath=brainviz/mri-histogram/mri-histogram.ipynb)
 
 This dashboard makes easy to navigate an MRI volume and to get as an histogram the distribution of its values in a given area. It is just a matter of drawing a path on top of the image. It is realised using [Dash](https://dash.plotly.com/introduction 'Dash Documentation'). More details available in this [post](http://neurosnippets.com/posts/mri-histogram/#post).
 
@@ -14,7 +14,7 @@ To run the dashboard using `mri-histogram.py`, you need `python` (`3.7`) and the
 * `scipy` (`1.4.1`);
 * `scikit-image` (`0.18.1`).
 
-To run the dashboard using `mri-histogram.ipynb` and Jupyter Lab, you will also need `jupyterlab-dash` (`0.1.0a3`).
+To run the dashboard using `mri-histogram.ipynb`, you will also need `jupyter-dash` (`0.4.0`).
 
 The code was tested on macOS `10.15.7`.
 
