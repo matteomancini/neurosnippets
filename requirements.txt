@@ -9,3 +9,4 @@ nibabel==3.0.0
 numpy==1.18.4
 scipy==1.4.1
 scikit-image==0.18.1
+jupyter-server-proxy
