@@ -5,6 +5,7 @@ This is the repository containing all the code presented and explained in the [b
 ## BrainViz
 
 * [Making a glass brain](brainviz/glass-brain) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/glass-brain/#post) [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
+* [A dashboard to quickly check MRI data](brainviz/mri-histogram) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/mri-histogram/#post) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matteomancini/neurosnippets/master?urlpath=lab/tree/brainviz/mri-histogram/mri-histogram.ipynb)
 
 ## DataViz
 

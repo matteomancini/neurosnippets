@@ -1,3 +1,11 @@
 pandas==0.25.3
-plotly==4.8.1
+plotly==4.14.3
 xlrd==1.2.0
+jupyterlab-dash==0.1.0a3
+dash==1.19.0
+dash-core-components==1.15.0
+dash-html-components==1.1.2
+nibabel==3.0.0
+numpy==1.18.4
+scipy==1.4.1
+scikit-image==0.18.1
