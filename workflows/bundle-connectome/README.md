@@ -4,7 +4,7 @@
 
 The scripts `build_bundle_connectome.sh` and `bundle_connectome.sh` allow to quickly reconstructing a structural connectome from  diffusion MRI data but weighted using a different map (in this example, a myelin map) in a bundle-wise fashion. An additional script (`run.sh`) shows how to use it on the [MICRA](https://osf.io/z3mkn/ 'MICRA on OSF') dataset.  More details available in this [post](http://neurosnippets.com/posts/bundle-connectome/#post).
 
-To run the script, you need the following packages:
+To run the overall script on the example data, you need the following packages:
 * `mrtrix` (`3.0.0`);
 * `fsl` (`6.0`);
 * `freesurfer` (`6.0.0`);
@@ -20,4 +20,4 @@ The script was tested on Ubuntu `18.04`.
 Some things to keep in mind:
 * for diffusion MRI pre-processing, `run.sh` uses [`papermill`](../papermill-preproc);
 * `build_bundle_connectome.sh` assumes that the map of interested (in this example, [a myelin water fraction map estimated from MCDESPOT](https://www.sciencedirect.com/science/article/pii/S1053811920308910 'Koller et al. 2021')) can be linearly registered to the anatomical reference; if it is not the case, please consider to replace the linear registration using [ANTs](https://github.com/ANTsX/ANTs 'Advanced Normalization Tools');
-* if you are using the output from FreeSurfer (rather than FastSurfer), you may want to edit the script in order to use `aparc+aseg.orig.mgz` instead of `aparc+aseg.orig.mgz`.
+* if you are using the output from FreeSurfer (rather than FastSurfer), you may want to edit the script in order to use `aparc+aseg.mgz` instead of `aparc+aseg.orig.mgz`.
