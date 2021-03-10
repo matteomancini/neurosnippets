@@ -21,3 +21,6 @@ This is the repository containing all the code presented and explained in the [b
 
 * [FSL-FIX in a box](workflows/fslfix-in-a-box) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/fslfix-in-a-box/#post) [![dockerhub](https://img.shields.io/badge/dockerhub-ingmatman-blue)](https://hub.docker.com/repository/docker/ingmatman/fslfix/general)
 * [Diffusion MRI preprocessing through papermill](workflows/papermill-preproc) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/papermill-preproc/#post) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+* [A recipe for bundle-wise, myelin-weighted connectomes](workflows/bundle-connectome) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/bundle-connectome/#post) [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+
