@@ -13,6 +13,7 @@ This is the repository containing all the code presented and explained in the [b
 ## DataViz
 
 * [Interactive treemaps for interactive reviews](dataviz/interactive-treemaps) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/interactive-treemaps/#post) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteomancini/neurosnippets/blob/master/dataviz/interactive-treemaps/treemap.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matteomancini/neurosnippets/master?filepath=dataviz/interactive-treemaps/treemap.ipynb)
+* [One brain, one dashboard, four frameworks](dataviz/game-of-dashboards) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/game-of-dashboards/#post) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 ## Tips and Tricks
 

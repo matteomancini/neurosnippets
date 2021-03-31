@@ -1,0 +1,9 @@
+streamlit==0.79.0
+plotly==4.14.3
+jupyter-dash==0.4.0
+dash==1.19.0
+dash-core-components==1.15.0
+dash-html-components==1.1.2
+nibabel==3.0.0
+numpy==1.18.4
+matplotlib==3.1.2
