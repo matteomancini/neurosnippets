@@ -8,8 +8,8 @@ echo "Downloading data"
 python -c "from dipy.data import fetch_sherbrooke_3shell;fetch_sherbrooke_3shell()"
 
 echo "Converting files"
-mrconvert -fslgrad .dipy/sherbrooke_3shell/HARDI193.bvec \
-    .dipy/sherbrooke_3shell/HARDI193.bval .dipy/sherbrooke_3shell/HARDI193.nii.gz \
+mrconvert -fslgrad ~/.dipy/sherbrooke_3shell/HARDI193.bvec \
+    ~/.dipy/sherbrooke_3shell/HARDI193.bval ~/.dipy/sherbrooke_3shell/HARDI193.nii.gz \
     dwi.mif
 
 echo "Creating a mask"
