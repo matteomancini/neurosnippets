@@ -18,6 +18,8 @@ This is the repository containing all the code presented and explained in the [b
 ## Tips and Tricks
 
 * [Running MRtrix3 in Colab](tips-and-tricks/mrtrix3-in-colab) [![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/mrtrix-in-colab/#post) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteomancini/neurosnippets/blob/master/tips-and-tricks/mrtrix3-in-colab/mrtrix3_in_colab.ipynb)
+* [A voice assistant to monitor a target application](tips-and-tricks/voice-monitor )[![NeuroSnippets](https://img.shields.io/static/v1?label=Neuro&message=Snippets&color=orange)](http://neurosnippets.com/posts/voice-monitor/#post) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 
 ## Workflows
 
