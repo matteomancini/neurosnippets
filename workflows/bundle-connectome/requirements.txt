@@ -1,5 +1,5 @@
 numpy==1.18.4
 papermill==2.3.2
-notebook==6.1.5
+notebook==6.4.10
 nibabel==3.2.1
 matplotlib==3.3.4
