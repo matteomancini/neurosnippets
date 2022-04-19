@@ -1,2 +1,2 @@
-numpy==1.18.4
+numpy>=1.21
 plotly==4.14.3

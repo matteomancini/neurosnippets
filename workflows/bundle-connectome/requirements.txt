@@ -1,4 +1,4 @@
-numpy==1.18.4
+numpy>=1.21
 papermill==2.3.2
 notebook==6.4.10
 nibabel==3.2.1

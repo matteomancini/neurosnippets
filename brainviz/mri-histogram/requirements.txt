@@ -4,6 +4,6 @@ dash==1.19.0
 dash-core-components==1.15.0
 dash-html-components==1.1.2
 nibabel==3.0.0
-numpy==1.18.4
+numpy>=1.21
 scipy==1.4.1
 scikit-image==0.18.1
